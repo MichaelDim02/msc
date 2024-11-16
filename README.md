@@ -1,0 +1,2 @@
+# msc
+xrandr automation script
